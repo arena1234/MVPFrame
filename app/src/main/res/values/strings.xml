@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVPFrame</string>
+    <string name="hint_name">name</string>
+    <string name="hint_password">password</string>
+    <string name="btn_login">login</string>
+    <string name="btn_register">register</string>
+    <string name="progress_login">login...</string>
+    <string name="login_fail">Login failed!</string>
+</resources>
